@@ -1,5 +1,5 @@
 # <p align="center">Module 9 Challenge: SQL
-## Assignment to analyze fictitious employee .csv data using SQL
+## Data Analytics assignment to analyze fictitious employee .csv data using SQL
 ### Overview
 1. Data modeling
 2. Data engineering
